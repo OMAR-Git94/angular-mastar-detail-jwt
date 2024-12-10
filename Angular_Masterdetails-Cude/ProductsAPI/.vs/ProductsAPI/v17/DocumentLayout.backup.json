@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\models\\identitydbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\identitydbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\productsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\productsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|d:\\all module-habib sir\\module_12_angular\\class 04\\class 04\\angular_masterdetails-cude\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:25:51.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsAPI.http",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\ProductsAPI.http",
+              "RelativeDocumentMoniker": "ProductsAPI\\ProductsAPI.http",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\ProductsAPI.http",
+              "RelativeToolTip": "ProductsAPI\\ProductsAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-09T12:25:23.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ProductsAPI\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:58:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:51:48.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ProductsAPI\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:51:19.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityDbModel.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Models\\IdentityDbModel.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\IdentityDbModel.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Models\\IdentityDbModel.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\IdentityDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:16:56.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAPI\\appsettings.json",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T09:12:58.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategoriesController.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:33:53.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:32:46.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "D:\\All Module-Habib Sir\\Module_12_Angular\\Class 04\\Class 04\\Angular_Masterdetails-Cude\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:11:10.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
